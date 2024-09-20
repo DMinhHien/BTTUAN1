@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UDC\\BT1_22520346\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|d:\\udc\\bt1_22520346\\bai1\\presentations\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\presentations\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|d:\\udc\\bt1_22520346\\bai1\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\models\\cuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\cuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\models\\giasuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\giasuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\models\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\models\\bo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\bo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|D:\\UDC\\BT1_22520346\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A49F8D3-C785-472F-ACD5-CE95FC9711CD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Views\\Form1.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Views\\Form1.cs",
+              "RelativeToolTip": "Bai1\\Views\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:42:55.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiaSuc.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\GiaSuc.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\GiaSuc.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\GiaSuc.cs",
+              "RelativeToolTip": "Bai1\\Models\\GiaSuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:24:44.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Presentations\\SQL.cs",
+              "RelativeDocumentMoniker": "Bai1\\Presentations\\SQL.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Presentations\\SQL.cs",
+              "RelativeToolTip": "Bai1\\Presentations\\SQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:06:46.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuu.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\Cuu.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\Cuu.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\Cuu.cs",
+              "RelativeToolTip": "Bai1\\Models\\Cuu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:32:55.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bo.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\Bo.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\Bo.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\Bo.cs",
+              "RelativeToolTip": "Bai1\\Models\\Bo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:32:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Views\\Form1.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Views\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1\\Views\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:07:00.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "De.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\De.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\De.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Models\\De.cs",
+              "RelativeToolTip": "Bai1\\Models\\De.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:32:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UDC\\BT1_22520346\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\UDC\\BT1_22520346\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:45:27.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
